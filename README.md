@@ -14,4 +14,5 @@ tener este cuarto rango privado es una medidad de emergencia para cuandon tenemo
 
 ¿Cuantas subredes se pueden lograr con la mascara 172.16.0.0/22?.
 ![Alt text](image-4.png)
-R/
+R/La cantidad de subredes que podemos lograr con la mascara de la direccion IP de 172.16.0.0/22 son: 64
+![Alt text](image-5.png)
