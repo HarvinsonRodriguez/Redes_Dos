@@ -26,4 +26,5 @@ R/La cantidad de cliente permitidos para conectarse a la red son 1022 ya que son
 
 R/10.10.10.0/24, es una dirección IP loca.
 Esto significa que la dirección IP no es accesible a través de Internet, que es local y sólo se puede acceder en la red, y se encuentra en la Clase A.
+
 ![Alt text](image-6.png)
