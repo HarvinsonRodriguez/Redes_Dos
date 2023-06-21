@@ -9,5 +9,9 @@ la direccion de broadcast: 192.168.10.11..
 
 ¿Que informacion se puede inferir de un host con la direccion 169.254.255.200/26?.
 ![Alt text](image-2.png)
-R/Podemos inferir que la direcion se encuentra en el cuarto rango donde encontramos las Direcciones PRIVADA estas direcciones son las que utilizamos con cables de ethernet, tambien son las que se utilizan para la autoconfiguracion de red o de enlace,
+R/Podemos inferir que la direccion se encuentra en el cuarto rango donde encontramos las Direcciones PRIVADA estas direcciones son las que utilizamos con cables de ethernet, tambien son las que se utilizan para la autoconfiguracion de red o de enlace,
 tener este cuarto rango privado es una medidad de emergencia para cuandon tenemos DHCP y nuestro hosts no tiene IP estatica asignada manualmente.
+
+¿Cuantas subredes se pueden lograr con la mascara 172.16.0.0/22?.
+![Alt text](image-4.png)
+R/
