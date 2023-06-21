@@ -13,6 +13,11 @@ R/Podemos inferir que la direccion se encuentra en el cuarto rango donde encontr
 tener este cuarto rango privado es una medidad de emergencia para cuandon tenemos DHCP y nuestro hosts no tiene IP estatica asignada manualmente.
 
 ¿Cuantas subredes se pueden lograr con la mascara 172.16.0.0/22?.
+
+R/La cantidad de subredes que podemos lograr con la mascara de la direccion IP de 172.16.0.0/22 son: 64 con una cantidad de hosts de 1022
+![Alt text](image-5.png).
+
+¿Cuantos clientes pueden tener la red sub 172.16.0.0/22?.
+
+R/La cantidad de cliente permitidos para conectarse a la red son 1022 ya que son la cantidad de host disponibles
 ![Alt text](image-4.png)
-R/La cantidad de subredes que podemos lograr con la mascara de la direccion IP de 172.16.0.0/22 son: 64
-![Alt text](image-5.png)
