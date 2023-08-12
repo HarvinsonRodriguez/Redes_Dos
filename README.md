@@ -1,5 +1,5 @@
 # Redes_G
-Harvinson
+Laboratorio-1
 # Preguntas reflexivas de ambientacion
 
 ¿Cuál es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30 .?
