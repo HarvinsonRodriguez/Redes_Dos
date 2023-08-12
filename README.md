@@ -1,4 +1,4 @@
-# Redes_G
+# Redes_Dos
 Laboratorio-1
 # Preguntas reflexivas de ambientacion
 
